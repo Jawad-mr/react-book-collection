@@ -90,8 +90,8 @@ function App() {
 
       {/* Footer Section */}
       <footer className="footer">
-        <p>Created by Asish</p>
-        <p>Contact: asishsiva1@example.com</p>
+        <p>Created by Muhammad Jawad MR</p>
+        <p>Contact: muhammadjawadmr@gmail.com</p>
         <p>© {new Date().getFullYear()} Book Lover</p>
       </footer>
     </div>
