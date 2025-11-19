@@ -24,7 +24,7 @@ A React app showcasing a collection of books using a reusable `BookCard` compone
 
 ## Links
 
-- **GitHub Repository:** [your-github-link-here]
+- **GitHub Repository:** https://github.com/Jawad-mr/react-book-collection.git
 - **Live Website:** # https://react-book-collection.vercel.app/
 
 A React app showcasing a collection of books using a reusable `BookCard` component, built with Vite.
